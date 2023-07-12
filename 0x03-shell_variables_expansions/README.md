@@ -11,3 +11,5 @@ Create a script that counts the number of directories in the PATH
 Create a script that lists environment variables
 ## 5-local_variables
 Create a script that lists all local variables and environment variables, and functions.
+## 6-create_local_variable
+Create a script that creates a new local variable.
